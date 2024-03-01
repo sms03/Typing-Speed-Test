@@ -2,4 +2,4 @@
  Check your typing speed with this simple Python program and test it.
 
  ## Website used to generate paragraphs
- -[(https://randomwordgenerator.com/paragraph.php)]
+- [random paragraph](https://randomwordgenerator.com/paragraph.php)
