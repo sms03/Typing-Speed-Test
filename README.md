@@ -1,2 +1,5 @@
 # Typing-Speed-Test
- Check your typing speed with this simple python program and test in it.
+ Check your typing speed with this simple Python program and test it.
+
+ ## Website used to generate paragraphs
+ -[(https://randomwordgenerator.com/paragraph.php)]
